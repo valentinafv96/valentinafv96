@@ -1,15 +1,15 @@
 <h1 align='center'>Hi there 👋, I'm Valentina Franco!</h1>
 
-## Education
+## :books: Education
 
-- :mortar_board: I'm a BSc in Astronomy and a MSc in Physics from the University of Antioquia.
+-  :mortar_board: I'm a BSc in Astronomy and a MSc in Physics from the University of Antioquia.
 - :milky_way: My research fields are cosmology, HEP and Astroparticle Physics.
 
 ---
 
-## Coding
+## :computer: Coding
 
-* ### Programming languajes
+* ### Programming languajes 
 
 ![python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&color=%233776AB)
 ![cpp](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=cplusplus&logoColor=white&color=%2300599C)
@@ -38,19 +38,19 @@
 
 ---
 
-## Stats
+## :bar_chart: Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinafv96&theme=tokyonight&hide_border=true" width="300">
-    <img src="https://github-readme-stats.vercel.app/api?username=valentinafv96&show_icons=true&theme=tokyonight" height="118">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinafv96&layout=compact&theme=tokyonight" height="120">   
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinafv96&theme=tokyonight&hide_border=true" width="299">
+    <img src="https://github-readme-stats.vercel.app/api?username=valentinafv96&show_icons=true&theme=tokyonight" height="119">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinafv96&layout=compact&theme=tokyonight" height="119"> 
 </p>
-
 
 ---
 
-<center><img src="https://komarev.com/ghpvc/?username=valentinafv96&abbreviated=true" alt="valentinafv96"></center>
-
+<p align='center'>
+    <img src="https://komarev.com/ghpvc/?username=valentinafv96&abbreviated=true" alt="valentinafv96" align = 'center'>
+</p>
 
 
 <!--
