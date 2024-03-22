@@ -1,4 +1,4 @@
-<center><h1>:octocat: Hi there 👋, I'm Valentina Franco!</h1></center>
+<center><h1>Hi there 👋, I'm Valentina Franco!</h1></center>
 
 ## Education
 
