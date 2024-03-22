@@ -43,7 +43,7 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=valentinafv96&theme=tokyonight&hide_border=true" width="300">
     <img src="https://github-readme-stats.vercel.app/api?username=valentinafv96&show_icons=true&theme=tokyonight" height="118">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinafv96&layout=compact&theme=tokyonight" height="140">   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinafv96&layout=compact&theme=tokyonight" height="120">   
 </p>
 
 
